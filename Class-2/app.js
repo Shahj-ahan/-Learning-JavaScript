@@ -76,4 +76,3 @@ if(student.english < 70 && student.extraCurricular.participatesInDrama || studen
         console.log("Student is not eligible for Math Club Leader");
     }
 
-    
